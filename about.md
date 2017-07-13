@@ -9,6 +9,6 @@ Cloud and DevOps Enthuasist working as PSO Consultant at VMware.
 
 ### Contact me
 
-[https://twitter.com/hadrouj](Twitter: @hadrouj)
+[Twitter: @hadrouj](https://twitter.com/hadrouj)
 
 [LinkedIn](https://www.linkedin.com/in/hadrouj/)
