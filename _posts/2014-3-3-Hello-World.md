@@ -15,12 +15,15 @@ The full Hugo documentation is at this page: https://gohugo.io/overview/introduc
 This tutorial doesn’t aim to replace the official install tutorial, here is the short and simplest method on MacOs X :
 
 Install brew on your system if it’s not already there:
+
 	$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 Update Homebrew and install Hugo:
+
 	$ brew update && brew install hugo
 
 and… that’s it! You’re all set to run Hugo. To check Hugo’s version, just type:
+
 	$ hugo version
 
 ### Setting Up Your Blog
@@ -47,6 +50,7 @@ Eventually customize your theme by editing theme.toml in myblog/themes/hugo-octo
 Change your current directory to your site root then run:
 
   	$ hugo new post/new-article-title.md
+    
 Edit the file in myblog/content/post/new-article-title.md and add the content of your article in the body section (after the second +++). Here is a page to help you use the Markdown syntax in order to put your post in a desirable shape. Save the file then exit your editor.
 
 The article you’ve just wrote will not be viewable publicly until you Undraft it:
