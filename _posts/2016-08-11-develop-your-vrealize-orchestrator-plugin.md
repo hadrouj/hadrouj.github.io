@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 This post will help you make your first steps in the desert land of vRO plugin development.
@@ -63,4 +63,3 @@ change to current directory then build the package :
 access the control center -> plugins : https://:8283/vco-controlcenter/#/control-app/plugin-manage
 
 browse to vmoapp location then click install
-
