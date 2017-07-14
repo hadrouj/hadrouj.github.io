@@ -68,7 +68,7 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-modernist
 
 # Set the Sass partials directory, as we're using @imports
 sass:
