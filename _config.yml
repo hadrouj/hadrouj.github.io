@@ -68,11 +68,11 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
+theme: jekyll-theme-modernist
+
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
-
-theme: architect
 
 # Use the following plug-ins
 gems:
