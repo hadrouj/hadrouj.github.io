@@ -15,6 +15,8 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Flags below are optional
 #
 
+theme: jekyll-theme-modernist
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -67,8 +69,6 @@ kramdown:
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
-
-theme: jekyll-theme-modernist
 
 # Set the Sass partials directory, as we're using @imports
 sass:
